@@ -1,4 +1,5 @@
 name: BeardAch-MineQuest compatibility
 main: com.tehbeard.beardach.minequest.BeardAchMineQuestCompat
 version: 1.0
-depend: [BeardAch] 
+depend: [MineQuest]
+loadbefore: [BeardAch] 
